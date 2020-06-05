@@ -1,0 +1,15 @@
+.basic-grid {
+  display: grid;
+  gap: 1rem;
+
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.booky {
+  background-image: url("../assets/booky.jpg");
+}
+
+.photo-grid {
+    display:grid;
+    gap:
+}
